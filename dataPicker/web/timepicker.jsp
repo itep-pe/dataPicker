@@ -15,7 +15,7 @@
     <body>
         <div class="ls-steps-content" id="step2">
             <label class="ls-label col-md-8">
-                <b class="ls-label-text">Data de início</b>
+                <b class="ls-label-text"> Data de início</b>
                 <input type="text" name='dataHoraInicio' placeholder="Selecione uma data válida (*)" class="required" required id="default_datetimepicker1" placeholder="Selecione o horário"/>
                 <br><br>
             </label>
